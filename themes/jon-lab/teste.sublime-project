@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/wordpress/wp-content/themes/jon-lab/"
+		}
+	],
+	"settings": {
+	  "xdebug": {
+	  	"url": "http://localhost/wordpress/",
+	  }
+	}
+}
